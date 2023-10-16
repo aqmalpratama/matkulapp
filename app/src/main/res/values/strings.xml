@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mata Kuliah Ilkomp</string>
+    <string name="mk1">Animasi Komputer</string>
+    <string name="sksmk1">3</string>
+    <string name="mk2">Science Technology Engineering Mathematics (STEM)</string>
+    <string name="sksmk2">3</string>
+    <string name="mk3">Pengantar Kecerdasan Buatan</string>
+    <string name="sksmk3">3</string>
+    <string name="mk4">Mobile Computing</string>
+    <string name="sksmk4">3</string>
+    <string name="mk5">Data Mining</string>
+    <string name="sksmk5">3</string>
+    <string name="mk6">Komputer dan Masyarakat</string>
+    <string name="sksmk6">2</string>
+    <string name="mk7">Organisasi Komputer</string>
+    <string name="sksmk7">3</string>
+    <string name="mk8">Pemrograman Deklaratif</string>
+    <string name="sksmk8">3</string>
+    <string name="mk9">Rekayasa Perangkat Lunak</string>
+    <string name="sksmk9">3</string>
+    <string name="mk10">Sistem Operasi</string>
+    <string name="sksmk10">3</string>
+</resources>
